@@ -1,1 +1,1 @@
-# Market Basket Analysis of Grocery Transactions Using Apriori
+# Grocery Transactions Market Basket Analysis Using Apriori
